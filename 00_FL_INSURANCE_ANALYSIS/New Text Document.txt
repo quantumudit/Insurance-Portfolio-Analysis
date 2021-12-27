@@ -1,0 +1,6 @@
+UK Stats data
+
+https://www.gov.uk/government/statistical-data-sets
+
+The sample insurance file contains 36,634 records in Florida for 2012 from a sample company that implemented an agressive growth plan in 2012.  There are total insured value (TIV) columns containing TIV from 2011 and 2012, so this dataset is great for testing out the comparison feature.  This file has address information that you can choose to geocode, or you can use the existing latitude/longitude in the file.
+
